@@ -105,7 +105,11 @@ header.titulo_header {
     font-weight: 300;
     color: #fff;
 }
-
+.proscontras ul li{
+    text-decoration: none;
+    padding: 8px 10px;
+    display: block;
+}
 .contenedor-what-it {
     display: flex;
     justify-content: space-evenly;
